@@ -1,4 +1,4 @@
-cd ../zohamushtaq.github.io
+cd zohamushtaq.github.io
 
 echo "Hello World" > index.html
 git add --all
